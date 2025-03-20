@@ -20,7 +20,7 @@ app.use(cookieParse());
 
 
 const corsOptions = {
-  origin: "http://localhost:5173",
+  origin: "https://tech-hire-pink.vercel.app",
   credentials: true,
 };
 
